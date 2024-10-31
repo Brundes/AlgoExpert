@@ -13,4 +13,4 @@ Questions from Algo Expert that I solved
 | Question                                                                          | Difficulty | Category             |
 | --------------------------------------------------------------------------------- | ---------- | -------------------- |
 | [Two Number Sum](/Easy/two-number-sum/)                                          | 🟢         | Arrays               |
-| [Find Closest Value In BST](/Easy/find-closest-value-in-bst/)                    | 🟢           Binary Search Trees|
+| [Find Closest Value In BST](/Easy/find-closest-value-in-bst/)                    | 🟢         |  Binary Search Trees|
