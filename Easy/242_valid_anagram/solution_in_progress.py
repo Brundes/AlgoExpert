@@ -1,5 +1,5 @@
 class Solution(object):
-    def isAnagram(s, t):
+    def isAnagram(self, s, t):
         if len(s) != len(t):
             return False
 
@@ -9,7 +9,7 @@ class Solution(object):
                 count_map[char] += 1
             else:
                 count_map[char] = 1
-        
+
         for char in t:
             if char in count_map:
                 count_map[char] -= 1
@@ -17,12 +17,16 @@ class Solution(object):
                 if count_map[char] < 0:
                     return False
             else:
-              return False
-            
+                return False
+
         return True
 
+# Create an instance of Solution
+solution = Solution()
+
+# Test the function
 s = "anagram"
 t = "nagaram"
-boolean = str(Solution.isAnagram(s,t))
+boolean = solution.isAnagram(s, t)
 
-print("It is " + boolean + " that " + s + " and " + t + " are anagrams of each other.")
+print("It is " + str(boolean) + " that " + s + " and " + t + " are anagrams of each other.")
