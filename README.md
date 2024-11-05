@@ -12,5 +12,7 @@ Questions from Algo Expert that I solved
 
 | Question                                                                          | Difficulty | Category             |
 | --------------------------------------------------------------------------------- | ---------- | -------------------- |
-| [Two Number Sum](/Easy/two-number-sum/)                                          | 🟢         | Arrays               |
-| [Find Closest Value In BST](/Easy/find-closest-value-in-bst/)                    | 🟢         |  Binary Search Trees|
+| [Two Number Sum](/easy/two_number_sum/)                                          | 🟢         | Arrays               |
+| [Find Closest Value In BST](/easy/find_closest_value_in_bst/)                    | 🟢         |  Binary Search Trees |
+| [217 Contains Duplicate](/easy/217_contains_duplicate/)                          | 🟢         | HashMap & String     |
+| [242 Valid Anagram](/easy/242_valid_anagram/)                                     | 🟢         | HashMap & String    |
