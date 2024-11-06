@@ -1,6 +1,6 @@
 # Anagram Check Explanation
 
-This explanation is based on the LeetCode problem: [Valid Anagram](https://leetcode.com/problems/valid-anagram/solutions/3687854/3-method-s-c-java-python-beginner-friendly/).
+This explanation is based on the LeetCode problem: [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/).
 
 ## Approach
 
@@ -24,7 +24,7 @@ This approach efficiently compares character frequencies between the two strings
 
 ## Complexity Analysis
 
-The time complexity of this solution is **O(n)**, where `n` is the total number of characters in both strings. It iterates over each character to build and adjust the frequency map, resulting in an efficient solution.
+The time complexity of this solution is **O(n)**, where `n` is the total number of characters in both strings.
 
 ## Code
 
