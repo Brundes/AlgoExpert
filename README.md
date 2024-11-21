@@ -21,5 +21,5 @@ Questions from Algo Expert that I solved
 | [Transpose Matrix](/Easy/transpose_matrix/)                                       | 🟢         | Arrays              |
 | [Two Number Sum](/Easy/two_number_sum/)                                           | 🟢         | Arrays              |
 | [Validate Subsequence](/Easy/validate_subsequence/)                               | 🟢         | Arrays              |
-| [Smallest Difference](/medium/smallest_difference/)                               | 🟢         | Arrays              |
-| [Three Number Sum](/medium/three_number_sum/)                                     | 🟢         | Arrays              | 
+| [Smallest Difference](/medium/smallest_difference/)                               | 🔵         | Arrays              |
+| [Three Number Sum](/medium/three_number_sum/)                                     | 🔵         | Arrays              | 
