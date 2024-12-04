@@ -14,7 +14,6 @@ def historianHysteria(list1, list2):
 
 with open('challenges/day_1_historian_hysteria/input.txt','r') as input:
     linhas = input.readlines()
-    #print(linhas)
 
 list1 = []
 list2 = []
